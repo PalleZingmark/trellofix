@@ -4,7 +4,6 @@
   "version": "0.6",
   "description": "TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
   "author": "Palle Zingmark <http://palleman.nu>",
-  "update_url": "http://tools.palleman.nu/trello/trellofix/chrome/updates.xml",
   "content_scripts": [{
     "matches": ["*://*.trello.com/*"],
     "css": ["trello-fix.css"]
