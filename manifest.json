@@ -1,8 +1,10 @@
 {
   "manifest_version": 2,
   "name": "TrelloFix",
-  "description": "TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
   "version": "0.4",
+  "default_locale": "en",
+  "description": "TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
+  "author": "Palle Zingmark <http://palleman.nu>",
   "content_scripts": [{
     "matches": ["*://*.trello.com/*"],
     "css": ["trello-fix.css"]
