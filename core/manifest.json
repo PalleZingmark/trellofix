@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TrelloFix",
-  "version": "0.4",
+  "version": "0.5",
   "description": "TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
   "author": "Palle Zingmark <http://palleman.nu>",
   "update_url": "https://raw.githubusercontent.com/PalleZingmark/trellofix/master/xml/updates.xml",
