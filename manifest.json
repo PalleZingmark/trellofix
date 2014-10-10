@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Trello Fix",
-  "description": "Trello Fix is a small, Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
+  "name": "TrelloFix",
+  "description": "TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.",
   "version": "0.4",
   "content_scripts": [{
     "matches": ["*://*.trello.com/*"],
