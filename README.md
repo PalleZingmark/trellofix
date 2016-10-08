@@ -1,7 +1,7 @@
 TrelloFix
 =======
 
-TrelloFix is a small, currently Expressen branded, Chrome extension that fixes some visual issues I'm having with Trello.
+TrelloFix is a small Chrome extension that fixes some visual issues I'm having with Trello.
 
 Main features:
 * Marginally smaller, but easier to read, font-face.
